@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NCR/chau_facemap"
+	"$halflambert" 1
+}

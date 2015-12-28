@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fallout3\food\iguanaonastick\iguanaonastick"
+        "$bumpmap" "models\fallout3\food\iguanaonastick\iguanaonastick_n"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/enclavebed01"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/enclavebed01_n"
+}

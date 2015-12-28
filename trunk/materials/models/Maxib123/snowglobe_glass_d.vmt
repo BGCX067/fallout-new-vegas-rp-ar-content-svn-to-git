@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/snowglobe_glass_d"
+	"$translucent" 1
+}

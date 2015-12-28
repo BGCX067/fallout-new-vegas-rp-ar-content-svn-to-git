@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NewVegasProps/slot_machine01_d"
+	"$bumpmap" "models/NewVegasProps/slot_machine01_d"
+}

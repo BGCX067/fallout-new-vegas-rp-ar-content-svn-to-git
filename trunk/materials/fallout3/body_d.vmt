@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$bumpmap" "fallout3/body_n"
+"$surfaceprop" "concrete"
+	"$basetexture" "fallout3/body_d"
+}

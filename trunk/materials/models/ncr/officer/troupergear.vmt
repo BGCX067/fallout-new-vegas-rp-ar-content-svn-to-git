@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ncr/officer/troupergear"
+	"$translucent" 1
+}

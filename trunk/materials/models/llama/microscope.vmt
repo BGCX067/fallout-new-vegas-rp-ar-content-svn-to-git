@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/llama/microscope"
+"$bumpmap" "models/llama/microscope_n"
+"$surfaceprop" "Metal" 
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fallout3/robobrain/robobrainglass_bos"
+        "$bumpmap" "models/fallout3/robobrain/robobrainglass_n"
+	"$translucent" 1
+}

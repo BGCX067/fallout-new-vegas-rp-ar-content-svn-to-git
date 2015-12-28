@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NewVegasProps/cratelarge01"
+	"$bumpmap" "models/NewVegasProps/cratelarge01_n"
+}

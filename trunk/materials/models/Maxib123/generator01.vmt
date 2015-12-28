@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/generator01"
+	"$bumpmap" "models/Maxib123/generator01_n"
+}

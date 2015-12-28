@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/MaxibAmmo/eccell"
+	"$bumpmap" "models/MaxibAmmo/eccell_n"
+}

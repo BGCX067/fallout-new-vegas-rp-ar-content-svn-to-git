@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/CL/legionhelmet03"
+	"$bumpmap" "models/CL/legionhelmet03_n"
+}

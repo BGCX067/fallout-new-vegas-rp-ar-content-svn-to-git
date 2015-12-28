@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/darkseid/v2/slow_darkseid"
+	"$bumpmap" "models/player/slow/jamis/mkvsdcu/darkseid/v2/slow_darkseid_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

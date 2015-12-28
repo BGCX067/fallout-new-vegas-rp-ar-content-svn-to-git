@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/underworldsculpture"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/underworldsculpture_n"
+}

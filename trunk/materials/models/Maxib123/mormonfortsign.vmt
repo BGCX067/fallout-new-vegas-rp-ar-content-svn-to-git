@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/mormonfortsign"
+	"$bumpmap" "models/Maxib123/mormonfortsign_n"
+}

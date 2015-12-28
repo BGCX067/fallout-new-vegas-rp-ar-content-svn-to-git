@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+"$surfaceprop" "glass"
+	"$basetexture" "fallout3/jblighttubesclean"
+}

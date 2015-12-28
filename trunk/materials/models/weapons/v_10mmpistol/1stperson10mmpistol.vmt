@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_10mmpistol/1stperson10mmpistol"
+	"$bumpmap" "models/weapons/v_10mmpistol/1stperson10mmpistol_n"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 10
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[1 1 1]"
+}

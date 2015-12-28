@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/MaxibAmmo/shotgunshellbox"
+	"$bumpmap" "models/MaxibAmmo/shotgunshellbox_n"
+}

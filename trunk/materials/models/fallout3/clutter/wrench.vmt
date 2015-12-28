@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fallout3\clutter\wrench"
+        "$bumpmap" "models\fallout3\clutter\wrench_n"
+}

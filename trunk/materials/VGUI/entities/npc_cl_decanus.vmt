@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/npc_cl_decanus"
+}   "$vertexcolor" 		1 
+	"$vertexalpha" 		1

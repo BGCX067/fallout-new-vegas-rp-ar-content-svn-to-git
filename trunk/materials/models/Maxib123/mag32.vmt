@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/mag32"
+	"$bumpmap" "models/Maxib123/mag32_n"
+}

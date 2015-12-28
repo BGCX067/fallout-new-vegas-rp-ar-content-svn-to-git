@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/watercooler"
+	"$bumpmap" "models/Maxib123/watercooler_n"
+}

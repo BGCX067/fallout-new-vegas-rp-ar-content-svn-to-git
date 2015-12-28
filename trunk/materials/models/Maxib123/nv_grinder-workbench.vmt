@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/nv_grinder-workbench"
+	"$bumpmap" "models/Maxib123/nv_grinder-workbench_n"
+}

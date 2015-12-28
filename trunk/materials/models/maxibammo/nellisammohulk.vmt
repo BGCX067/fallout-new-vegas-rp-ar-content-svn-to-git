@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/MaxibAmmo/nellisammohulk"
+	"$bumpmap" "models/MaxibAmmo/nellisammohulk_n"
+}

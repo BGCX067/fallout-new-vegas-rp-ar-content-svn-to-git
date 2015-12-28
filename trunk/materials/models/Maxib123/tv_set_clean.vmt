@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/tv_set_clean"
+	"$bumpmap" "models/Maxib123/tv_set_clean_n"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/novac_sign"
+	"$bumpmap" "models/Maxib123/novac_sign_n"
+}

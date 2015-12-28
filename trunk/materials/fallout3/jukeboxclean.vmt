@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+"$surfaceprop" "metal"
+	"$basetexture" "fallout3/jukeboxclean"
+}

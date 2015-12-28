@@ -1,0 +1,12 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"1"
+		"name"		"Fallout knight armor"
+	}
+	"Entries"
+	{
+		"1"		"models/player/slow/fallout_3/knite_armor/slow.mdl"
+	}
+}

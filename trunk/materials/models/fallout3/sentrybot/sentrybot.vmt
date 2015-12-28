@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fallout3/sentrybot/sentrybot"
+        "$bumpmap" "models/fallout3/sentrybot/sentrybot_n"
+}

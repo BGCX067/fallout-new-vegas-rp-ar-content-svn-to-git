@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/passcard01"
+	"$bumpmap" "models/Maxib123/passcard01_n"
+}

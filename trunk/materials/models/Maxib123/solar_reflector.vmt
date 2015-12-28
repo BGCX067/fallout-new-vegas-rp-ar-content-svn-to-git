@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/solar_reflector"
+	"$bumpmap" "models/Maxib123/solar_reflector_n"
+}

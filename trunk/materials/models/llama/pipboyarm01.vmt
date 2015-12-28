@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/pipboyarm01"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/pipboyarm01_n"
+}

@@ -1,0 +1,96 @@
+"weapon_10mm.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\pistol_10mm\wpn_pistol10mm_fire_2d.wav"
+	
+}
+"weapon_laserrifle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\laserrifle/wpn_rifle_laser_fire_2d.wav"
+	
+}
+"weapon_plasmarifle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\plasmarifle/wpn_rifleplasma_fire_2d.wav"
+	
+}
+"weapon_combatshotgun.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\combatshotgun/wpn_shotguncombat_fire_2d.wav"
+	
+}
+"weapon_fatman.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\fatman/wpn_fatman_fire_2d.wav"
+	
+}
+"weapon_alienblaster.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\alienblaster/wpn_alienblaster_fire_2d.wav"
+	
+}
+"weapon_tribeamlaser.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"rndwave"
+	{
+		"wave" "weapons/laserrifle/wpn_lasertribeam_fire_2d_01.wav"
+		"wave" "weapons/laserrifle/wpn_lasertribeam_fire_2d_02.wav"
+	}
+	
+}
+"weapon_gatlinglaser.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\gatlinglaser/wpn_gatlinglaser_fire_lpm.wav"
+	
+}
+"werfer_fire"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/flamer/wpn_flamer_fire_2d_loop.wav"
+}
+
+

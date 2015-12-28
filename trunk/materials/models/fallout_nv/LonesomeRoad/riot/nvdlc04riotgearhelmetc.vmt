@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"Models\fallout_nv\LonesomeRoad\riot\nvdlc04riotgearhelmetc"
+	"$bumpmap"		"Models\fallout_nv\LonesomeRoad\riot\nvdlc04riotgearhelmetc_n"
+
+ 	"$halflambert"		"1"
+
+	"$phong"			"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[0.01]"
+	"$phongexponent"		"10"
+	"$phongalbedotint"		"1"
+}

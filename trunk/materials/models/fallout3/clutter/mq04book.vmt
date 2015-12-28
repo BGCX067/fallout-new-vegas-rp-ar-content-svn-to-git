@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fallout3\clutter\mq04book"
+        "$bumpmap" "models\fallout3\clutter\mq04book_n"
+}

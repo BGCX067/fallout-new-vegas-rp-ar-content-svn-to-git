@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/vurt_drybark"
+	"$bumpmap" "models/Maxib123/vurt_drybark_N"
+}

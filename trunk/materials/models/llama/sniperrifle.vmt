@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/sniperrifle"
+	"$surfaceprop" "Metal"
+                 "$bumpmap" "models/llama/sniperrifle_n"
+}

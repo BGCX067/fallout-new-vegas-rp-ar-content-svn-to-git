@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/llama/plate03"
+"$bumpmap" "models/llama/plate01_n"
+"$surfaceprop" "Metal" 
+}

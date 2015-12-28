@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/fallout_3/knite_armor/slow_decal"
+	"$bumpmap" "models/player/slow/fallout_3/knite_armor/slow_decal_bump"
+
+	"$translucent" 1
+}

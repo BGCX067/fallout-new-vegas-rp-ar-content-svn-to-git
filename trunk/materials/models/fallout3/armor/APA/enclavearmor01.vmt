@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\fallout3\armor/APA/enclavearmor01"
+                "$bumpmap" "models\fallout3\armor/APA/enclavearmor01_n"
+
+               "$detailscale" "4"
+               "$alphatest" "1" 								// To enable rim lighting (requires 
+	
+                
+                "$phong" "1"
+	
+               "$phongexponent" "30"
+	"$phongboost"	"20"
+	"$phongfresnelranges"	"[.15 .5 1]"
+              
+                     
+
+}

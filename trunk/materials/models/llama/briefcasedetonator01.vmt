@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/briefcasedetonator01"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/briefcasedetonator01"
+}

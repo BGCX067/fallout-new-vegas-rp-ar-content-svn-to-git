@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NewVegasProps/nv_stripwall01"
+	"$bumpmap" "models/NewVegasProps/nv_stripwall01_n"
+}

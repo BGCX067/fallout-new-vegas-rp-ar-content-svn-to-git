@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/metal01"
+	"$bumpmap" "models/Maxib123/metal01_n"
+	"$surfaceprop" "metal"
+}

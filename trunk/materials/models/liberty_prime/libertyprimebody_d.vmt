@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/liberty_prime/libertyprimebody_d"
+	"$bumpmap" "models/liberty_prime/libertyprimebody_n"
+	"$surfaceprop"	"metal"
+}

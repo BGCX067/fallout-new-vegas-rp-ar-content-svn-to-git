@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/chainlinkfencekit01"
+	"$bumpmap" "models/Maxib123/chainlinkfencekit01_n"
+	"$translucent" 1
+}

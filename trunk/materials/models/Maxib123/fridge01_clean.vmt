@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/fridge01_clean"
+	"$bumpmap" "models/Maxib123/fridge01_clean_n"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/Maxib123/nukasignbig"
+	"$bumpmap" "models/Maxib123/nukasignbig_n"
+	"$model" 1
+}

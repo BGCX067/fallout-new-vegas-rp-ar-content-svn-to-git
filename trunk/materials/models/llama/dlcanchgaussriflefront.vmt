@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"materials/llama/dlcanchgaussriflefront"
+	"$bumpmap"           "materials/llama/dlcanchgaussriflefront_n"
+	"$surfaceprop"	"metal"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/microphone"
+	"$bumpmap" "models/Maxib123/microphone_n"
+}

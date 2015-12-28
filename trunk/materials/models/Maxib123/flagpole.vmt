@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/flagpole"
+	"$bumpmap" "models/Maxib123/flagpole_n"
+	"$surfaceprop" "metal"
+}

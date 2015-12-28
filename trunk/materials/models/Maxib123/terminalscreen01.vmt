@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/Maxib123/terminalscreen01"
+	"$bumpmap" "models/Maxib123/terminalscreen01_n"
+	$model 1
+}

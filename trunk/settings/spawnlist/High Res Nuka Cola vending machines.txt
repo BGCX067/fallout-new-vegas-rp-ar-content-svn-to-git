@@ -1,0 +1,16 @@
+"173"
+{
+	"Information"
+	{
+		"name"		"High res Nuka Cola vending machines"
+	}
+	"Entries"
+	{
+		"1"
+		{
+			"model"		"models/highres_nuka_machine.mdl"
+		}
+		"2"
+		{
+			"model"		"models/highres_nuka_machine_2.mdl"
+		}

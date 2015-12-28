@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunsetvend/ssvendingmachine"
+	"$bumpmap" "models/sunsetvend/ssvendingmachine_n"
+}

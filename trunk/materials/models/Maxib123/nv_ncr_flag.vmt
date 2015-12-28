@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/nv_ncr_flag"
+	"$bumpmap" "models/Maxib123/nv_ncr_flag_n"
+	"$translucent" 1
+	"$surfaceprop" "paper"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/dclanchtench"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/dclanchtench_n"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ncr/combatranger"
+	"$bumpmap" "models/ncr/combatranger_n"
+}

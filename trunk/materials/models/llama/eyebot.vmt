@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/llama/eyebot"
+"$bumpmap" "models/llama/eyebot_n"
+"$surfaceprop" "Metal" 
+}

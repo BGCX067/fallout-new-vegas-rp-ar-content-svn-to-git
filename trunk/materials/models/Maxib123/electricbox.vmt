@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/Maxib123/electricbox"
+	"$bumpmap" "models/Maxib123/electricbox_n"
+}

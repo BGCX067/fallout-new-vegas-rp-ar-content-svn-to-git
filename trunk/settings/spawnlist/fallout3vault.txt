@@ -1,0 +1,186 @@
+"101"
+{
+	"Information"
+	{
+		"name"		"Fallout 3 - Vault Props"
+	}
+	"Entries"
+	{
+		"1"
+		{
+			"model"		"models/fallout3/babycrib01.mdl"
+		}
+		"2"
+		{
+			"model"		"models/fallout3/bathroomstalldivider01.mdl"
+		}
+		"3"
+		{
+			"model"		"models/fallout3/bathroomstalldivider02.mdl"
+		}
+		"4"
+		{
+			"model"		"models/fallout3/bathroomstalldivider03.mdl"
+		}
+		"5"
+		{
+			"model"		"models/fallout3/bathroomstalldoor.mdl"
+		}
+		"6"
+		{
+			"model"		"models/fallout3/chairvault01.mdl"
+		}
+		"7"
+		{
+			"model"		"models/fallout3/controlpanelvault01.mdl"
+		}
+		"8"
+		{
+			"model"		"models/fallout3/dinerbooth01.mdl"
+		}
+		"9"
+		{
+			"model"		"models/fallout3/dinerbooth02.mdl"
+		}
+		"10"
+		{
+			"model"		"models/fallout3/dinerbooth03.mdl"
+		}
+		"11"
+		{
+			"model"		"models/fallout3/dinerbooth04.mdl"
+		}
+		"12"
+		{
+			"model"		"models/fallout3/dinerstool01.mdl"
+		}
+		"13"
+		{
+			"model"		"models/fallout3/dinertable01.mdl"
+		}
+		"14"
+		{
+			"model"		"models/fallout3/dinertable02.mdl"
+		}
+		"15"
+		{
+			"model"		"models/fallout3/dinertable03.mdl"
+		}
+		"16"
+		{
+			"model"		"models/fallout3/dinertable04.mdl"
+		}
+		"17"
+		{
+			"model"		"models/fallout3/dinerwindow.mdl"
+		}
+		"18"
+		{
+			"model"		"models/fallout3/fridge01.mdl"
+		}
+		"19"
+		{
+			"model"		"models/fallout3/jukebox.mdl"
+		}
+		"20"
+		{
+			"model"		"models/fallout3/lightceilingvault01.mdl"
+		}
+		"21"
+		{
+			"model"		"models/fallout3/lockervault01.mdl"
+		}
+		"22"
+		{
+			"model"		"models/fallout3/sink.mdl"
+		}
+		"23"
+		{
+			"model"		"models/fallout3/tablevault01.mdl"
+		}
+		"24"
+		{
+			"model"		"models/fallout3/tablevault02.mdl"
+		}
+		"25"
+		{
+			"model"		"models/fallout3/toiletmetal01.mdl"
+		}
+		"26"
+		{
+			"model"		"models/fallout3/tv02.mdl"
+		}
+		"27"
+		{
+			"model"		"models/fallout3/usflag.mdl"
+		}
+		"28"
+		{
+			"model"		"models/fallout3/vacunit01.mdl"
+		}
+		"29"
+		{
+			"model"		"models/fallout3/vaultdesk01.mdl"
+		}
+		"30"
+		{
+			"model"		"models/fallout3/vaultschooldesk01.mdl"
+		}
+		"31"
+		{
+			"model"		"models/fallout3/vbedsingle01.mdl"
+		}
+		"32"
+		{
+			"model"		"models/fallout3/vbench01.mdl"
+		}
+		"33"
+		{
+			"model"		"models/fallout3/vceilingfanhallsm01.mdl"
+		}
+		"34"
+		{
+			"model"		"models/fallout3/vchalkboard01.mdl"
+		}
+		"35"
+		{
+			"model"		"models/fallout3/vconduitcover01.mdl"
+		}
+		"36"
+		{
+			"model"		"models/fallout3/vdoorpanel.mdl"
+		}
+		"37"
+		{
+			"model"		"models/fallout3/vdoorsliding01lower.mdl"
+		}
+		"38"
+		{
+			"model"		"models/fallout3/vdoorsliding01upper.mdl"
+		}
+		"39"
+		{
+			"model"		"models/fallout3/vdresser01.mdl"
+		}
+		"40"
+		{
+			"model"		"models/fallout3/vendingmachine01.mdl"
+		}
+		"41"
+		{
+			"model"		"models/fallout3/vintageradio01.mdl"
+		}
+		"42"
+		{
+			"model"		"models/fallout3/vsign01.mdl"
+		}
+		"43"
+		{
+			"model"		"models/fallout3/vwallconsole01.mdl"
+		}
+		"44"
+		{
+			"model"		"models/fallout3/vgeardoor01.mdl"
+		}			
+	}
+}

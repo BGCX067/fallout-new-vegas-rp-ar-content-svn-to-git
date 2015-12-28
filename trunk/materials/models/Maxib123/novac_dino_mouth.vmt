@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/novac_dino_mouth"
+	"$bumpmap" "models/Maxib123/novac_dino_mouth_n"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/CL/nv_legionflag"
+	"$halflambert" 1
+}

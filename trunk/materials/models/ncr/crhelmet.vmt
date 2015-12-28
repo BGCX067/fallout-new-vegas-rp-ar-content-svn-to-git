@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ncr/crhelmet"
+	"$bumpmap" "models/ncr/crhelmet_n"
+}

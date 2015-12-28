@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/MaxibAmmo/smallenergycell"
+	"$bumpmap" "models/MaxibAmmo/smallenergycell_n"
+}

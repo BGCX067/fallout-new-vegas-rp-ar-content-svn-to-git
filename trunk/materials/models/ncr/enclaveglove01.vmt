@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ncr/enclaveglove01"
+	"$bumpmap" "models/ncr/enclaveglove01_n"
+}

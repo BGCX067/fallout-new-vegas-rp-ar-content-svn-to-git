@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/flamer"
+	"$surfaceprop" "Rock"
+                "$bumpmap" "models/llama/flamer_n"
+}

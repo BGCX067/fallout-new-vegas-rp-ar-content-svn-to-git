@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/moneyncr_d"
+	"$bumpmap" "models/Maxib123/moneyncr_n"
+	"$translucent" 1
+}

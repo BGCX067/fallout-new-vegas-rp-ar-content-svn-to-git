@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/healingpowder"
+	"$bumpmap" "models/Maxib123/healingpowder_n"
+}

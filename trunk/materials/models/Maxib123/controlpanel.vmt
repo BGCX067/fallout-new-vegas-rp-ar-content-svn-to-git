@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/controlpanel"
+	"$bumpmap" "models/Maxib123/controlpanel_n"
+}

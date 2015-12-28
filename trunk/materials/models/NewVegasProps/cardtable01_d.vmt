@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/NewVegasProps/cardtable01_d"
+	"$bumpmap" "models/NewVegasProps/cardtable01_n"
+}

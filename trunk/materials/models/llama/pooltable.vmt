@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/pooltable"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/pooltable"
+}

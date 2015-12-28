@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fallout3/sentrybot/brain"
+        "$bumpmap" "models/fallout3/sentrybot/brain_n"
+	"$translucent" 1
+}

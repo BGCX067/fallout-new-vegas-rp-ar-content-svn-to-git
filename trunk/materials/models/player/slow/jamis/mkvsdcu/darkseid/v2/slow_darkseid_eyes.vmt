@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/darkseid/v2/slow_darkseid"
+	"$bumpmap" "models/player/slow/jamis/mkvsdcu/darkseid/v2/slow_darkseid_bump"
+
+	"$selfillum" 1
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 .8 .7]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
+

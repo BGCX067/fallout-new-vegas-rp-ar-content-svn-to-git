@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\NCR\joe_facemap"
+	"$halflambert" 1
+}
+

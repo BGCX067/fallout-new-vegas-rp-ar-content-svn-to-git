@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fallout3/protectron/protectron"
+        "$bumpmap" "models/fallout3/protectron/protectron_n"
+}

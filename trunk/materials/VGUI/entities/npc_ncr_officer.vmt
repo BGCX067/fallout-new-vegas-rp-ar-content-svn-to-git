@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/npc_ncr_officer"
+}   "$vertexcolor" 		1 
+	"$vertexalpha" 		1

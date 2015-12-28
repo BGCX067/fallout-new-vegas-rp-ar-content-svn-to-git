@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/ssvendingmachine"
+	"$bumpmap" "models/Maxib123/ssvendingmachine_n"
+}

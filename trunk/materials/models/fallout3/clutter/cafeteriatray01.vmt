@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fallout3\clutter\cafeteriatray01"
+        "$bumpmap" "models\fallout3\clutter\cafeteriatray01_n"
+}

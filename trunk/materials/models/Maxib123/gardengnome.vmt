@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/gardengnome"
+	"$bumpmap" "models/Maxib123/gardengnome_n"
+}

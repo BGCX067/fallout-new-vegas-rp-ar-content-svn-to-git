@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Maxib123/classic_hotel_wardrobe"
+	"$bumpmap" "models/Maxib123/classic_hotel_wardrobe_n"
+}

@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"			"Fallout NV Content"
+	"version"		"1"
+	"up_date"		"November 8, 2010"
+	"author_name"		"Hydro"
+	"author_email"		""
+	"author_url"		""
+	"info"			""
+
+	"override"	"0"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/ms17violin"
+	"$surfaceprop" "Rock"
+                 "$bumpmap" "models/llama/ms17violin_n"
+}

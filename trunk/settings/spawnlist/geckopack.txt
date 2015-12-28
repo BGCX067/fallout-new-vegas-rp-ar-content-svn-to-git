@@ -1,0 +1,17 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"2"
+		"name"		"New Vegas Gecko Pack"
+	}
+	"Entries"
+	{
+		"1"		"models/vegasgecko.mdl"
+		"2"		"models/vegasgeckobig.mdl"
+		"3"		"models/vegasgeckobigger.mdl"
+		"4"		"models/vegasgeckohuge.mdl"
+		"5"		"models/vegasgeckogiant.mdl"
+		"6"		"models/vegasgeckoepic.mdl"
+	}
+}

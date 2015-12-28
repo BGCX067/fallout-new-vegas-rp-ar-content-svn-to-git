@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/llama/deathclawgauntlet"
+	"$surfaceprop" "Metal"
+                 "$bumpmap" "models/llama/deathclawgauntlett_n"
+}
